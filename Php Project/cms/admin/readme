@@ -1,0 +1,13 @@
+1. change Sb admin to cms admin2. 
+delete envelop and bell navbar dropdown also delete inbox and setting from john smith
+remove chart, table and form
+replace a copy of dropdown with bootsrap element and change the dropdown id and change the dropdown to post and the dropdown in it view all post and add post
+change Bootstrap grid sidebar to categories and blank page to comment also change the last sidebar to user and one 
+more link and give it profile sidebar
+
+today
+create a categories.php 
+include db connection and text it
+then creata a form containing(label of Add category,input of text and input of submit) in the categories.php page
+then crate a table containing of (id,category title)
+

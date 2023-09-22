@@ -1,0 +1,20 @@
+83. Intro Tour of the Cms
+84. Turning some important Features
+85. Adding Our Asset/working structure
+86. Creating Database and category table for the Cms
+87. connecting to the database with PHP
+88. Making Our file reuseable 
+89. Inserting data into Category table
+90. creating the post table
+91. post comment Count Update(Edwin diaz from the future)
+92. inserting data into the posts table and displaying it 
+93. inserting the post image and displaying it
+94. Creating a custom search engine part1 
+95. Creating a custom search engine part 2
+96. Creating a custom search engine part 3
+97. Adding categories to the sidebar
+
+
+
+
+
