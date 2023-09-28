@@ -23,16 +23,16 @@
                         </h1>
 
                      <?php 
-                     if(isset($_GET['Source'])){
-                        $source = $_GET['Source'];
+                     if(isset($_GET['source'])){
+                        $source = $_GET['source'];
                      }
                      else{
                         $source = '';
                      }
 
                      switch($source){
-                        case '34';
-                        echo 'Nice 34';
+                        case 'add_post';
+                        include ('includes/add_post.php');
                         break;
 
                         case '120';
